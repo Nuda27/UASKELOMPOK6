@@ -1,0 +1,93 @@
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.exe.config
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.exe
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.pdb
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.csprojResolveAssemblyReference.cache
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.Form1.resources
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.Properties.Resources.resources
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.csproj.GenerateResource.Cache
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.exe
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\MetroFramework.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.FormLogin.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\XanderUI.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.Dashboard.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.DataUser.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.exe.config
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.exe
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.csprojResolveAssemblyReference.cache
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.FormLogin.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Properties.Resources.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.csproj.GenerateResource.Cache
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.exe
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\MetroFramework.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\XanderUI.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Dashboard.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.DataUser.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.DataAlatBerat.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Transaksi.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Dashboard2.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.exe.config
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\MetroFramework.dll
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\MetroFramework.Fonts.dll
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Dashboard.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Dashboard2.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.DataAlatBerat.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.DataUser.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.FormLogin.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Properties.Resources.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Transaksi.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\pos.exe.config
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\MetroFramework.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\MetroFramework.Fonts.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.Dashboard.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.DataUser.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.FormLogin.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.Properties.Resources.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.DataAnggota.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.DataBuku.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.DataPeminjaman.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.DataPengembalian.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\stdole.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.ReportP.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\obj\Debug\pos.ReportK.resources
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\Guna.UI2.dll
+D:\Kuliah\Semester 5\Visual\UAS\Perpustakaan\bin\Debug\Guna.Charts.WinForms.dll
+D:\UAS VIsual FIX\Perpustakaan\bin\Debug\pos.exe.config
+D:\UAS VIsual FIX\Perpustakaan\obj\Debug\pos.exe
+D:\UAS VIsual FIX\Perpustakaan\obj\Debug\pos.pdb
